@@ -2,7 +2,7 @@
 
 
 
-This is the dataset of SRDGI project code for the CS337 course,  containing G-buffer images and global illumination images with different rendering engines of multiple scenes. The specific usage can be referred to 
+This is the dataset of SRDGI project code for the CS337 course,  containing G-buffer images and global illumination images with different rendering engines of multiple scenes. The specific usage can be referred to https://github.com/void-zxh/CS337-SRDGI.
 
 <img src="image1.png" alt="image1" style="zoom:70%;" />
 
