@@ -4,9 +4,9 @@
 
 This is the dataset of SRDGI project code for the CS337 course,  containing G-buffer images and global illumination images with different rendering engines of multiple scenes. The specific usage can be referred to 
 
-<img src="D:\桌面\image1.png" alt="image-20220104175738878" style="zoom:70%;" />
+<img src="image1.png" alt="image1" style="zoom:70%;" />
 
-![image-20220104180116925](D:\桌面\image2.png)
+![image-20220104180116925](image2.png)
 
 ## Downland
 
